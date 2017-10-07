@@ -26,3 +26,5 @@ result is one branch with combined code of two branches. We just represent it th
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+It can save your time by merging it automatic or semi-automatic and you have to merge it manually only if there is some conflict
